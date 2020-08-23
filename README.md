@@ -1,3 +1,3 @@
-Its a React Simple Quiz App
+Its a React Simple Quiz App /n
 To Start server 
 npm start
